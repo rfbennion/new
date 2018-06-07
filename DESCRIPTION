@@ -8,3 +8,5 @@ Encoding: UTF-8
 LazyData: true
 ByteCompile: true
 Imports: bookdown
+URL: https://github.com/rfbennion/new
+BugReports: https://github.com/rfbennion/new/issues
